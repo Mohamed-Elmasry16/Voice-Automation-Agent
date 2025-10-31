@@ -10,7 +10,7 @@ The assistant uses OpenAI GPT-5 for natural language understanding, Google Calen
 
 ## Demo Video
 Watch a short demonstration of the assistant in action:  
-[Insert your 5-minute video link here](YOUR_VIDEO_LINK_HERE)
+[video link here]([YOUR_VIDEO_LINK_HERE](https://drive.google.com/drive/folders/1uo_k_VY62GPAQ8BVHJKW6swOel385ttx))
 
 ## Features
 - Voice input with short recording window for responsiveness.
