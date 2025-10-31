@@ -27,17 +27,17 @@ Watch a short demonstration of the assistant in action:
 - "Who are you?"
 - "Bye"
 
-  voice-automation-agent/
-│
-├─ voice_booking_assistant.py   # GUI and voice interface
-├─ model.py                     # Voice processing & command handling
-├─ analyzer.py                  # GPT-5 command analyzer
-├─ test_calendar.py             # Google Calendar integration
-├─ credentials.json             # Google Calendar credentials
-├─ token.json                   # Generated OAuth token
-├─ requirements.txt             # Python dependencies
-└─ README.md                    # Project documentation
+## Project structure
+
+- `voice-automation-agent/`
+  - `voice_booking_assistant.py` — GUI and voice interface
+  - `model.py` — Voice processing & command handling
+  - `analyzer.py` — GPT-5 command analyzer
+  - `test_calendar.py` — Google Calendar integration
+  - `credentials.json` — Google Calendar credentials
+  - `token.json` — Generated OAuth token
+  - `requirements.txt` — Python dependencies
+  - `README.md` — Project documentation
 
 
-   git clone https://github.com/yourusername/voice-booking-assistant.git
-   cd voice-booking-assistant
+
