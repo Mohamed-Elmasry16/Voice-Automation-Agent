@@ -1,0 +1,21 @@
+# UI
+customtkinter>=5.0.0
+
+# Voice I/O
+SpeechRecognition>=3.9.0
+sounddevice>=0.4.8
+numpy>=1.26.0
+gTTS>=2.3.2
+pygame>=2.1.3
+
+# OpenAI
+openai>=1.8.0
+
+# Google Calendar API
+google-api-python-client>=2.80.0
+google-auth-httplib2>=0.1.0
+google-auth-oauthlib>=1.0.0
+
+# Utilities
+requests>=2.31.0
+python-dotenv>=1.0.0
